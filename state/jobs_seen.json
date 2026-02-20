@@ -1,0 +1,2342 @@
+{
+  "greenhouse-4663053005": {
+    "job_id": "greenhouse-4663053005",
+    "company": "Scale AI",
+    "title": "ML Systems Engineer, Robotics",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-02-17T19:47:19-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4663053005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4513943005": {
+    "job_id": "greenhouse-4513943005",
+    "company": "Scale AI",
+    "title": "Software Engineer, Enterprise AI",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-01-07T14:37:44-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4637485005": {
+    "job_id": "greenhouse-4637485005",
+    "company": "Scale AI",
+    "title": "Software Engineer, Full Stack \u2013 Scale GP",
+    "location": "New York, NY, San Francisco, CA",
+    "posted_at": "2025-12-05T21:26:16-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4637485005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4591300005": {
+    "job_id": "greenhouse-4591300005",
+    "company": "Scale AI",
+    "title": "Software Engineer, Gen AI",
+    "location": "New York, NY, San Francisco, CA",
+    "posted_at": "2025-08-05T13:53:36-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4591300005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4363623005": {
+    "job_id": "greenhouse-4363623005",
+    "company": "Scale AI",
+    "title": "Software Engineer, Infrastructure & Security",
+    "location": "Washington, DC",
+    "posted_at": "2024-02-15T11:18:14-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4605996005": {
+    "job_id": "greenhouse-4605996005",
+    "company": "Scale AI",
+    "title": "Software Engineer - New Grad",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-09-08T13:50:05-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4594879005": {
+    "job_id": "greenhouse-4594879005",
+    "company": "Scale AI",
+    "title": "Software Engineer, Platform",
+    "location": "New York, NY, San Francisco, CA",
+    "posted_at": "2025-08-21T12:47:52-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4594879005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4618065005": {
+    "job_id": "greenhouse-4618065005",
+    "company": "Scale AI",
+    "title": "Software Engineer, Robotics & Autonomous Systems",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-10T20:45:34-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4618065005",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8398641002": {
+    "job_id": "greenhouse-8398641002",
+    "company": "Brex",
+    "title": "Software Engineer II, Operational AI",
+    "location": "Remote",
+    "posted_at": "2026-01-30T12:54:16-05:00",
+    "apply_url": "https://www.brex.com/careers/8398641002?gh_jid=8398641002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5691886004": {
+    "job_id": "greenhouse-5691886004",
+    "company": "Figma",
+    "title": "Software Engineer, AI Platforms",
+    "location": "United States",
+    "posted_at": "2025-11-01T15:10:47-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5551730004": {
+    "job_id": "greenhouse-5551730004",
+    "company": "Figma",
+    "title": "Software Engineer, AI Product",
+    "location": "United States",
+    "posted_at": "2025-06-02T05:59:53-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5552530004": {
+    "job_id": "greenhouse-5552530004",
+    "company": "Figma",
+    "title": "Software Engineer, C++",
+    "location": "United States",
+    "posted_at": "2025-06-02T06:02:45-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5790627004": {
+    "job_id": "greenhouse-5790627004",
+    "company": "Figma",
+    "title": "Software Engineer, Developer Experience",
+    "location": "United States",
+    "posted_at": "2026-02-03T23:28:07-05:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5552549004": {
+    "job_id": "greenhouse-5552549004",
+    "company": "Figma",
+    "title": "Software Engineer, Distributed Systems",
+    "location": "United States",
+    "posted_at": "2025-06-02T06:14:45-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5691911004": {
+    "job_id": "greenhouse-5691911004",
+    "company": "Figma",
+    "title": "Software Engineer, Full Stack",
+    "location": "United States",
+    "posted_at": "2025-11-01T15:16:06-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5552522004": {
+    "job_id": "greenhouse-5552522004",
+    "company": "Figma",
+    "title": "Software Engineer, Graphics & Media",
+    "location": "United States",
+    "posted_at": "2025-06-02T06:08:58-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5552560004": {
+    "job_id": "greenhouse-5552560004",
+    "company": "Figma",
+    "title": "Software Engineer, Growth & Monetization",
+    "location": "United States",
+    "posted_at": "2025-06-02T06:07:15-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5551532004": {
+    "job_id": "greenhouse-5551532004",
+    "company": "Figma",
+    "title": "Software Engineer, Machine Learning",
+    "location": "United States",
+    "posted_at": "2025-06-02T06:24:11-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5551649004": {
+    "job_id": "greenhouse-5551649004",
+    "company": "Figma",
+    "title": "Software Engineer, Production Engineering",
+    "location": "United States",
+    "posted_at": "2025-06-02T06:18:37-04:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5759501004": {
+    "job_id": "greenhouse-5759501004",
+    "company": "Figma",
+    "title": "Software Engineer, Web Platform",
+    "location": "United States",
+    "posted_at": "2026-01-13T12:28:14-05:00",
+    "apply_url": "https://boards.greenhouse.io/figma/jobs/5759501004?gh_jid=5759501004",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7022255": {
+    "job_id": "greenhouse-7022255",
+    "company": "Robinhood",
+    "title": "Software Backend Engineer, Credit Cards & Banking Platform",
+    "location": "Bellevue, WA, Menlo Park, CA, New York, NY",
+    "posted_at": "2025-08-11T00:38:14-04:00",
+    "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7022255?t=gh_src=&gh_jid=7022255",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7263592": {
+    "job_id": "greenhouse-7263592",
+    "company": "Robinhood",
+    "title": "Software Engineer, Backend",
+    "location": "Menlo Park, CA",
+    "posted_at": "2025-09-27T11:57:00-04:00",
+    "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7263578": {
+    "job_id": "greenhouse-7263578",
+    "company": "Robinhood",
+    "title": "Software Engineer, Backend",
+    "location": "Menlo Park, CA",
+    "posted_at": "2025-09-27T12:02:45-04:00",
+    "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7263578?t=gh_src=&gh_jid=7263578",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7390553": {
+    "job_id": "greenhouse-7390553",
+    "company": "Robinhood",
+    "title": "Software Engineer, Data Governance",
+    "location": "Bellevue, WA, Menlo Park, CA",
+    "posted_at": "2025-11-14T17:00:51-05:00",
+    "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7390553?t=gh_src=&gh_jid=7390553",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6042172": {
+    "job_id": "greenhouse-6042172",
+    "company": "Stripe",
+    "title": "Backend Engineer, Core Technology",
+    "location": "United States",
+    "posted_at": "2024-06-14T18:04:50-04:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6042172",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6163230": {
+    "job_id": "greenhouse-6163230",
+    "company": "Stripe",
+    "title": "Backend Engineer, Payments and Risk",
+    "location": "United States",
+    "posted_at": "2024-08-08T11:03:55-04:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=6163230",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7232592": {
+    "job_id": "greenhouse-7232592",
+    "company": "Stripe",
+    "title": "Backend Engineer, Payments and Risk",
+    "location": "United States",
+    "posted_at": "2026-02-03T12:30:22-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7232592",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7488253": {
+    "job_id": "greenhouse-7488253",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Collaboration",
+    "location": "United States",
+    "posted_at": "2026-01-08T17:35:55-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7488253",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7403151": {
+    "job_id": "greenhouse-7403151",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "location": "United States",
+    "posted_at": "2025-12-09T00:20:40-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7403151",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7325118": {
+    "job_id": "greenhouse-7325118",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Money as a Service",
+    "location": "United States",
+    "posted_at": "2025-12-01T19:23:50-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7325118",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7277110": {
+    "job_id": "greenhouse-7277110",
+    "company": "Stripe",
+    "title": "Software Engineer, Bridge",
+    "location": "United States",
+    "posted_at": "2025-11-20T15:28:04-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7277110",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7600792": {
+    "job_id": "greenhouse-7600792",
+    "company": "Stripe",
+    "title": "Software Engineer, Experimental Projects",
+    "location": "United States",
+    "posted_at": "2026-02-13T13:51:16-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7600792",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7009186": {
+    "job_id": "greenhouse-7009186",
+    "company": "Stripe",
+    "title": "Software Engineer, Internal Systems",
+    "location": "United States",
+    "posted_at": "2025-09-12T20:13:05-04:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7009186",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7528260": {
+    "job_id": "greenhouse-7528260",
+    "company": "Stripe",
+    "title": "Software Engineer, Machine Learning Infrastructure",
+    "location": "United States",
+    "posted_at": "2026-01-14T14:42:59-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7528260",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7210112": {
+    "job_id": "greenhouse-7210112",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "United States",
+    "posted_at": "2025-09-02T19:50:59-04:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7210112",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7545459": {
+    "job_id": "greenhouse-7545459",
+    "company": "Stripe",
+    "title": "Software Engineer, Product Security Data Platforms",
+    "location": "United States",
+    "posted_at": "2026-01-16T15:23:40-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7545459",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7396679": {
+    "job_id": "greenhouse-7396679",
+    "company": "Stripe",
+    "title": "Software Engineer, Secrets Infrastructure",
+    "location": "United States",
+    "posted_at": "2025-11-14T02:04:52-05:00",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7396679",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7414993": {
+    "job_id": "greenhouse-7414993",
+    "company": "Reddit",
+    "title": "Android Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T12:59:51-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7414993",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7415052": {
+    "job_id": "greenhouse-7415052",
+    "company": "Reddit",
+    "title": "Android Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T13:01:21-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7415052",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7415013": {
+    "job_id": "greenhouse-7415013",
+    "company": "Reddit",
+    "title": "Android Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T12:59:54-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7415003": {
+    "job_id": "greenhouse-7415003",
+    "company": "Reddit",
+    "title": "Android Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T12:59:52-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7415003",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7565219": {
+    "job_id": "greenhouse-7565219",
+    "company": "Reddit",
+    "title": "Backend Engineer, Feeds Experience",
+    "location": "Remote - United States",
+    "posted_at": "2026-01-26T16:06:19-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7565219",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7415041": {
+    "job_id": "greenhouse-7415041",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T13:00:43-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7415041",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7414842": {
+    "job_id": "greenhouse-7414842",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T12:59:57-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7414842",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7414849": {
+    "job_id": "greenhouse-7414849",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, Ad Formats",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T12:59:58-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7414849",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7414834": {
+    "job_id": "greenhouse-7414834",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "location": "Remote - United States",
+    "posted_at": "2025-11-21T12:59:56-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7414834",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7512046": {
+    "job_id": "greenhouse-7512046",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "location": "Remote - United States",
+    "posted_at": "2026-01-05T12:27:02-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7512046",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7512048": {
+    "job_id": "greenhouse-7512048",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "location": "Remote - United States",
+    "posted_at": "2026-01-05T12:27:34-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7512048",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6909093": {
+    "job_id": "greenhouse-6909093",
+    "company": "Reddit",
+    "title": "Software Engineer",
+    "location": "Remote - United States",
+    "posted_at": "2025-10-21T16:46:52-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6469397": {
+    "job_id": "greenhouse-6469397",
+    "company": "Reddit",
+    "title": "Software Engineer, Ads",
+    "location": "Remote - United States",
+    "posted_at": "2025-01-06T18:59:24-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6469397",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6512458": {
+    "job_id": "greenhouse-6512458",
+    "company": "Reddit",
+    "title": "Software Engineer, Ads",
+    "location": "Remote - United States",
+    "posted_at": "2025-01-06T19:00:56-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7559168": {
+    "job_id": "greenhouse-7559168",
+    "company": "Coinbase",
+    "title": "Site Reliability Engineer, IT Infrastructure",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-01-22T19:15:48-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7559168?gh_jid=7559168",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7173250": {
+    "job_id": "greenhouse-7173250",
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend - Blockchain Platform (Staking Validators)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2025-12-10T21:07:30-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7173250?gh_jid=7173250",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7591861": {
+    "job_id": "greenhouse-7591861",
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend (Consumer - Advanced Trading)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-02-19T17:07:53-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7012159": {
+    "job_id": "greenhouse-7012159",
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend  (Consumer - Growth)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-02-05T16:01:06-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7012159?gh_jid=7012159",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7591737": {
+    "job_id": "greenhouse-7591737",
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend (Institutional - Foundations, Transfers)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-02-05T13:50:30-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7579370": {
+    "job_id": "greenhouse-7579370",
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend - Platform (Core Automation)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-01-30T14:02:07-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7579370?gh_jid=7579370",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7482100": {
+    "job_id": "greenhouse-7482100",
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend - Platform (FinHub - Transfers)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-02-10T19:35:17-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7482100?gh_jid=7482100",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7586664": {
+    "job_id": "greenhouse-7586664",
+    "company": "Coinbase",
+    "title": "Software Engineer, Developer Experience",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-02-06T12:23:44-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7586664?gh_jid=7586664",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7595352": {
+    "job_id": "greenhouse-7595352",
+    "company": "Coinbase",
+    "title": "Software Engineer, DevSec",
+    "location": "Remote - USA",
+    "posted_at": "2026-02-19T13:43:01-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7558035": {
+    "job_id": "greenhouse-7558035",
+    "company": "Coinbase",
+    "title": "Software Engineer, Frontend - Identity",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-01-30T16:15:09-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7295579": {
+    "job_id": "greenhouse-7295579",
+    "company": "Coinbase",
+    "title": "Software Engineer, Frontend - Risk Platform",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-01-28T21:52:59-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7295579?gh_jid=7295579",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6233713": {
+    "job_id": "greenhouse-6233713",
+    "company": "Coinbase",
+    "title": "Software Engineer - Full Stack (EAA - Compliance)",
+    "location": "US - Remote Zone 3 (Job Requisitions Only)",
+    "posted_at": "2024-09-16T12:10:18-04:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7587442": {
+    "job_id": "greenhouse-7587442",
+    "company": "Coinbase",
+    "title": "Software Engineer (Institutional - Tokenization)",
+    "location": "US - Remote Zone 1 (Job Requisitions Only)",
+    "posted_at": "2026-02-10T12:50:16-05:00",
+    "apply_url": "https://www.coinbase.com/careers/positions/7587442?gh_jid=7587442",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7572491": {
+    "job_id": "greenhouse-7572491",
+    "company": "Airbnb",
+    "title": "Backend Software Engineer, Storefronts",
+    "location": "United States",
+    "posted_at": "2026-02-03T14:37:48-05:00",
+    "apply_url": "https://careers.airbnb.com/positions/7572491?gh_jid=7572491",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7572572": {
+    "job_id": "greenhouse-7572572",
+    "company": "Airbnb",
+    "title": "Software Engineer, Listings",
+    "location": "United States",
+    "posted_at": "2026-02-17T16:25:33-05:00",
+    "apply_url": "https://careers.airbnb.com/positions/7572572?gh_jid=7572572",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7624515": {
+    "job_id": "greenhouse-7624515",
+    "company": "Airbnb",
+    "title": "Software Engineer, Marketplace API",
+    "location": "United States",
+    "posted_at": "2026-02-19T15:21:08-05:00",
+    "apply_url": "https://careers.airbnb.com/positions/7624515?gh_jid=7624515",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7612127": {
+    "job_id": "greenhouse-7612127",
+    "company": "Airbnb",
+    "title": "Software Engineer, Trust ",
+    "location": "United States",
+    "posted_at": "2026-02-12T14:59:20-05:00",
+    "apply_url": "https://careers.airbnb.com/positions/7612127?gh_jid=7612127",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5098984008": {
+    "job_id": "greenhouse-5098984008",
+    "company": "Anthropic",
+    "title": "Full Stack Software Engineer, Reinforcement Learning",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-30T13:07:06-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5098984008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4887952008": {
+    "job_id": "greenhouse-4887952008",
+    "company": "Anthropic",
+    "title": "IT Systems Engineer",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-08-19T15:14:38-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4952079008": {
+    "job_id": "greenhouse-4952079008",
+    "company": "Anthropic",
+    "title": "Machine Learning Systems Engineer, Research Tools",
+    "location": "New York City, NY, San Francisco, CA",
+    "posted_at": "2025-10-14T20:43:41-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4952051008": {
+    "job_id": "greenhouse-4952051008",
+    "company": "Anthropic",
+    "title": "Machine Learning Systems Engineer, RL Engineering",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-14T20:44:37-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5098025008": {
+    "job_id": "greenhouse-5098025008",
+    "company": "Anthropic",
+    "title": "Model Quality Software Engineer, Claude Code",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-02-02T17:15:17-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4595463008": {
+    "job_id": "greenhouse-4595463008",
+    "company": "Anthropic",
+    "title": "Security Software Engineer, D&R Platform",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-03-24T19:05:26-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4943668008": {
+    "job_id": "greenhouse-4943668008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Accelerator Build Infrastructure",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-06T14:50:21-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4943668008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4899511008": {
+    "job_id": "greenhouse-4899511008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Android",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-08-28T19:22:30-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4942024008": {
+    "job_id": "greenhouse-4942024008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Beneficial Deployments ",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-03T16:56:03-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4982198008": {
+    "job_id": "greenhouse-4982198008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Business Technology ",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-11-10T15:43:44-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4982198008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4816198008": {
+    "job_id": "greenhouse-4816198008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Claude Code",
+    "location": "New York City, NY, San Francisco, CA, Seattle, WA",
+    "posted_at": "2025-07-30T12:25:00-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4816198008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5108982008": {
+    "job_id": "greenhouse-5108982008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Compute Efficiency",
+    "location": "New York City, NY, San Francisco, CA, Seattle, WA",
+    "posted_at": "2026-02-04T18:04:06-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5108982008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5063007008": {
+    "job_id": "greenhouse-5063007008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Cybersecurity Products",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-09T17:55:51-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4980420008": {
+    "job_id": "greenhouse-4980420008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Desktop",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-11-07T13:40:04-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5110474008": {
+    "job_id": "greenhouse-5110474008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Encoding Libraries",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-02-05T15:29:05-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5110474008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4667572008": {
+    "job_id": "greenhouse-4667572008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Enterprise Foundations",
+    "location": "New York City, NY, San Francisco, CA",
+    "posted_at": "2025-04-30T18:08:59-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5042025008": {
+    "job_id": "greenhouse-5042025008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Growth",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-18T17:57:40-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5042025008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5109273008": {
+    "job_id": "greenhouse-5109273008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Human Data Interface",
+    "location": "New York City, NY, San Francisco, CA",
+    "posted_at": "2026-02-06T15:51:29-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5109273008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5111745008": {
+    "job_id": "greenhouse-5111745008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Inference Deployment",
+    "location": "New York City, NY, San Francisco, CA, Seattle, WA",
+    "posted_at": "2026-02-05T16:14:53-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5111745008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4572744008": {
+    "job_id": "greenhouse-4572744008",
+    "company": "Anthropic",
+    "title": "Software Engineer, iOS",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-08-28T19:29:36-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4926242008": {
+    "job_id": "greenhouse-4926242008",
+    "company": "Anthropic",
+    "title": "Software Engineer, ML Networking",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-09-23T17:02:55-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5119468008": {
+    "job_id": "greenhouse-5119468008",
+    "company": "Anthropic",
+    "title": "Software Engineer, People Products",
+    "location": "Remote-Friendly US (Travel Required)",
+    "posted_at": "2026-02-12T20:30:13-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5119468008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4955107008": {
+    "job_id": "greenhouse-4955107008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Platform",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-14T18:54:53-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4955107008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4902636008": {
+    "job_id": "greenhouse-4902636008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Public Sector",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-09-12T20:09:13-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4902636008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4951844008": {
+    "job_id": "greenhouse-4951844008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Safeguards",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-14T14:45:18-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5083039008": {
+    "job_id": "greenhouse-5083039008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Sandboxing",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-27T19:29:27-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5083039008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5025591008": {
+    "job_id": "greenhouse-5025591008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Sandboxing (Systems)",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-11T11:58:52-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4673416008": {
+    "job_id": "greenhouse-4673416008",
+    "company": "Anthropic",
+    "title": "Software Engineer, UI Platform",
+    "location": "San Francisco, CA, Seattle, WA",
+    "posted_at": "2025-05-06T20:16:18-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4673416008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-5098506008": {
+    "job_id": "greenhouse-5098506008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Windows - Claude Code",
+    "location": "San Francisco, CA, Seattle, WA",
+    "posted_at": "2026-01-29T15:54:36-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5098506008",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7850582002": {
+    "job_id": "greenhouse-7850582002",
+    "company": "Databricks",
+    "title": "Software Engineer - Delta Managed Tables PhD Candidates",
+    "location": "San Francisco, California",
+    "posted_at": "2025-02-06T11:02:07-05:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7850582002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7471089002": {
+    "job_id": "greenhouse-7471089002",
+    "company": "Databricks",
+    "title": "Software Engineer -  DLT PhD Candidates ",
+    "location": "San Francisco, California",
+    "posted_at": "2024-05-29T20:40:05-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7471089002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8202670002": {
+    "job_id": "greenhouse-8202670002",
+    "company": "Databricks",
+    "title": "Software Engineer - GenAI inference ",
+    "location": "San Francisco, California",
+    "posted_at": "2025-10-08T00:00:35-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7466498002": {
+    "job_id": "greenhouse-7466498002",
+    "company": "Databricks",
+    "title": "Software Engineer - Performance PhD Candidates",
+    "location": "San Francisco, California",
+    "posted_at": "2024-05-24T20:07:40-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7466498002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6875433002": {
+    "job_id": "greenhouse-6875433002",
+    "company": "Databricks",
+    "title": "Software Engineer -  Systems PhD Candidates",
+    "location": "San Francisco, California",
+    "posted_at": "2023-08-03T15:55:04-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6875433002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7649293002": {
+    "job_id": "greenhouse-7649293002",
+    "company": "Databricks",
+    "title": "Software Engineer - Systems PhD Candidates ",
+    "location": "Seattle, Washington",
+    "posted_at": "2024-09-20T11:56:15-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7649293002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8379331002": {
+    "job_id": "greenhouse-8379331002",
+    "company": "Databricks",
+    "title": "Sr. Software Engineer- Backend",
+    "location": "New York",
+    "posted_at": "2026-01-16T18:38:49-05:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8211450002": {
+    "job_id": "greenhouse-8211450002",
+    "company": "Databricks",
+    "title": "Sr Software Engineer-Networking",
+    "location": "Mountain View, California",
+    "posted_at": "2025-10-14T15:50:01-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8211452002": {
+    "job_id": "greenhouse-8211452002",
+    "company": "Databricks",
+    "title": "Sr Software Engineer-Networking",
+    "location": "Mountain View, California",
+    "posted_at": "2025-10-14T15:51:17-04:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6569774002": {
+    "job_id": "greenhouse-6569774002",
+    "company": "Databricks",
+    "title": "Sr. Software Engineer - Performance",
+    "location": "San Francisco, California",
+    "posted_at": "2023-01-12T19:06:46-05:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6569774002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6569772002": {
+    "job_id": "greenhouse-6569772002",
+    "company": "Databricks",
+    "title": "Sr. Software Engineer - Performance ",
+    "location": "San Francisco, California",
+    "posted_at": "2023-01-12T19:06:45-05:00",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6569772002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8362007002": {
+    "job_id": "greenhouse-8362007002",
+    "company": "Discord",
+    "title": "Software Engineer, Ads",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-22T12:09:53-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8362007002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8396927002": {
+    "job_id": "greenhouse-8396927002",
+    "company": "Discord",
+    "title": "Software Engineer, Data Platform",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-02-09T17:46:38-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8396927002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8177727002": {
+    "job_id": "greenhouse-8177727002",
+    "company": "Discord",
+    "title": "Software Engineer, Mobile",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-09-19T12:15:52-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8304667002": {
+    "job_id": "greenhouse-8304667002",
+    "company": "Discord",
+    "title": "Software Engineer, Payments",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-11-25T17:44:28-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8304667002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8328560002": {
+    "job_id": "greenhouse-8328560002",
+    "company": "Discord",
+    "title": "Software Engineer - Realtime Infrastructure",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-19T12:26:57-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8328560002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8345959002": {
+    "job_id": "greenhouse-8345959002",
+    "company": "Twitch",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-18T17:17:01-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8345959002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8186269002": {
+    "job_id": "greenhouse-8186269002",
+    "company": "Twitch",
+    "title": "Software Engineer",
+    "location": "Seattle, WA",
+    "posted_at": "2025-09-26T16:34:43-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8186269002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8346106002": {
+    "job_id": "greenhouse-8346106002",
+    "company": "Twitch",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-18T17:17:01-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8346106002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8347863002": {
+    "job_id": "greenhouse-8347863002",
+    "company": "Twitch",
+    "title": "Software Engineer, Creator Monetization",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-19T17:45:33-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8347863002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8334351002": {
+    "job_id": "greenhouse-8334351002",
+    "company": "Twitch",
+    "title": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-04T14:29:25-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8334351002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8217817002": {
+    "job_id": "greenhouse-8217817002",
+    "company": "Twitch",
+    "title": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-10-31T17:19:07-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8217817002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8360103002": {
+    "job_id": "greenhouse-8360103002",
+    "company": "Twitch",
+    "title": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-05T22:24:01-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8360103002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8162197002": {
+    "job_id": "greenhouse-8162197002",
+    "company": "Twitch",
+    "title": "Software Engineer I - Ads Demand Enablement",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-08T14:36:18-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8162197002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8362817002": {
+    "job_id": "greenhouse-8362817002",
+    "company": "Twitch",
+    "title": "Software Engineer I, Builder Frameworks",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-07T12:21:34-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8362817002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8326458002": {
+    "job_id": "greenhouse-8326458002",
+    "company": "Twitch",
+    "title": "Software Engineer II, Android",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-12-05T15:48:36-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8326458002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8213985002": {
+    "job_id": "greenhouse-8213985002",
+    "company": "Twitch",
+    "title": "Software Engineer, ML",
+    "location": "Seattle, WA",
+    "posted_at": "2025-11-14T13:28:13-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8213985002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8221643002": {
+    "job_id": "greenhouse-8221643002",
+    "company": "Twitch",
+    "title": "Software Engineer, ML",
+    "location": "Seattle, WA",
+    "posted_at": "2025-11-14T13:28:13-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8221643002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8183360002": {
+    "job_id": "greenhouse-8183360002",
+    "company": "Twitch",
+    "title": "Software Engineer, ML Products",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-09-25T14:03:41-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8183360002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8378879002": {
+    "job_id": "greenhouse-8378879002",
+    "company": "Twitch",
+    "title": "Software Engineer, Safety ML",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-16T19:00:31-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/twitch/jobs/8378879002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7469388": {
+    "job_id": "greenhouse-7469388",
+    "company": "Dropbox",
+    "title": "Android Software Engineer, Mobile Experience",
+    "location": "United States",
+    "posted_at": "2026-01-28T16:43:13-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7469388?gh_jid=7469388",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7469391": {
+    "job_id": "greenhouse-7469391",
+    "company": "Dropbox",
+    "title": "Android Software Engineer, Mobile Experience",
+    "location": "United States",
+    "posted_at": "2026-01-28T16:43:14-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7469391?gh_jid=7469391",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7181370": {
+    "job_id": "greenhouse-7181370",
+    "company": "Dropbox",
+    "title": "CX Software Engineer",
+    "location": "United States",
+    "posted_at": "2025-10-06T17:54:36-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7181370?gh_jid=7181370",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7181369": {
+    "job_id": "greenhouse-7181369",
+    "company": "Dropbox",
+    "title": "CX Software Engineer, GTM Platforms",
+    "location": "United States",
+    "posted_at": "2025-10-06T17:52:59-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7181369?gh_jid=7181369",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6330405": {
+    "job_id": "greenhouse-6330405",
+    "company": "Dropbox",
+    "title": "Fullstack Product Software Engineer",
+    "location": "United States",
+    "posted_at": "2025-03-26T16:49:06-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/6330405?gh_jid=6330405",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6330409": {
+    "job_id": "greenhouse-6330409",
+    "company": "Dropbox",
+    "title": "Fullstack Product Software Engineer",
+    "location": "United States",
+    "posted_at": "2025-03-26T16:47:58-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/6330409?gh_jid=6330409",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7344971": {
+    "job_id": "greenhouse-7344971",
+    "company": "Dropbox",
+    "title": "Fullstack Product Software Engineer, DocSend",
+    "location": "United States",
+    "posted_at": "2025-11-08T14:12:35-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7344971?gh_jid=7344971",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7344968": {
+    "job_id": "greenhouse-7344968",
+    "company": "Dropbox",
+    "title": "Fullstack Product Software Engineer, DocSend",
+    "location": "United States",
+    "posted_at": "2025-11-08T14:12:29-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7344968?gh_jid=7344968",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7491863": {
+    "job_id": "greenhouse-7491863",
+    "company": "Dropbox",
+    "title": "Full-Stack Product Software Engineer, Search Platform",
+    "location": "United States",
+    "posted_at": "2026-01-14T12:23:42-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7491863?gh_jid=7491863",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7491860": {
+    "job_id": "greenhouse-7491860",
+    "company": "Dropbox",
+    "title": "Full-Stack Product Software Engineer, Search Platform",
+    "location": "United States",
+    "posted_at": "2026-01-14T12:23:38-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7491860?gh_jid=7491860",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6330388": {
+    "job_id": "greenhouse-6330388",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer",
+    "location": "United States",
+    "posted_at": "2025-03-21T13:17:50-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/6330388?gh_jid=6330388",
+    "provider": "greenhouse"
+  },
+  "greenhouse-6330390": {
+    "job_id": "greenhouse-6330390",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer",
+    "location": "United States",
+    "posted_at": "2025-03-21T13:17:48-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/6330390?gh_jid=6330390",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7387420": {
+    "job_id": "greenhouse-7387420",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, API Platform",
+    "location": "United States",
+    "posted_at": "2025-12-04T11:22:31-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7387420?gh_jid=7387420",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7580463": {
+    "job_id": "greenhouse-7580463",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Data Platform",
+    "location": "United States",
+    "posted_at": "2026-02-17T16:41:54-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7580463?gh_jid=7580463",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7580466": {
+    "job_id": "greenhouse-7580466",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Data Platform",
+    "location": "United States",
+    "posted_at": "2026-02-17T16:41:53-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7580466?gh_jid=7580466",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7409359": {
+    "job_id": "greenhouse-7409359",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Identity & Auth Platform",
+    "location": "United States",
+    "posted_at": "2025-11-25T12:53:46-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7409359?gh_jid=7409359",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7409354": {
+    "job_id": "greenhouse-7409354",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Identity & Auth Platform",
+    "location": "United States",
+    "posted_at": "2025-11-25T12:51:06-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7409354?gh_jid=7409354",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7409357": {
+    "job_id": "greenhouse-7409357",
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Identity & Auth Platform",
+    "location": "United States",
+    "posted_at": "2025-11-25T12:51:11-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7409357?gh_jid=7409357",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7182020": {
+    "job_id": "greenhouse-7182020",
+    "company": "Dropbox",
+    "title": "iOS Software Engineer, Mobile Infrastructure",
+    "location": "United States",
+    "posted_at": "2025-08-26T11:30:49-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7182020?gh_jid=7182020",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7053876": {
+    "job_id": "greenhouse-7053876",
+    "company": "Dropbox",
+    "title": "iOS Software Engineer, Mobile Infrastructure",
+    "location": "United States",
+    "posted_at": "2025-12-16T21:36:12-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7053876?gh_jid=7053876",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7053880": {
+    "job_id": "greenhouse-7053880",
+    "company": "Dropbox",
+    "title": "iOS Software Engineer, Mobile Infrastructure",
+    "location": "United States",
+    "posted_at": "2025-08-26T11:30:47-04:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7053880?gh_jid=7053880",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7610995": {
+    "job_id": "greenhouse-7610995",
+    "company": "Dropbox",
+    "title": "Software Engineer (T)",
+    "location": "United States",
+    "posted_at": "2026-02-18T15:17:14-05:00",
+    "apply_url": "https://jobs.dropbox.com/listing/7610995?gh_jid=7610995",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8342770002": {
+    "job_id": "greenhouse-8342770002",
+    "company": "Chime",
+    "title": "Backend Engineer",
+    "location": "San Francisco Office",
+    "posted_at": "2025-12-16T18:38:20-05:00",
+    "apply_url": "https://boards.greenhouse.io/chime/jobs/8342770002?gh_jid=8342770002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8376910002": {
+    "job_id": "greenhouse-8376910002",
+    "company": "Chime",
+    "title": "Backend Engineer (Chicago)",
+    "location": "Chicago Office",
+    "posted_at": "2026-02-03T15:37:20-05:00",
+    "apply_url": "https://boards.greenhouse.io/chime/jobs/8376910002?gh_jid=8376910002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8350779002": {
+    "job_id": "greenhouse-8350779002",
+    "company": "Chime",
+    "title": "Full-Stack Engineer, Cards Success",
+    "location": "San Francisco Office",
+    "posted_at": "2025-12-22T17:06:32-05:00",
+    "apply_url": "https://boards.greenhouse.io/chime/jobs/8350779002?gh_jid=8350779002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8183064002": {
+    "job_id": "greenhouse-8183064002",
+    "company": "Chime",
+    "title": "Software Engineer, Financial Platform",
+    "location": "San Francisco Office",
+    "posted_at": "2025-11-05T17:22:20-05:00",
+    "apply_url": "https://boards.greenhouse.io/chime/jobs/8183064002?gh_jid=8183064002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7450259": {
+    "job_id": "greenhouse-7450259",
+    "company": "Instacart",
+    "title": "Software Engineer II, Marketing Enablement & Technology",
+    "location": "Remote - United States",
+    "posted_at": "2025-12-05T20:01:39-05:00",
+    "apply_url": "https://instacart.careers/job/?gh_jid=7450259",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8100057002": {
+    "job_id": "greenhouse-8100057002",
+    "company": "Pendo",
+    "title": "Back End Software Engineer",
+    "location": "Raleigh, NC",
+    "posted_at": "2025-07-31T14:31:56-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/pendo/jobs/8100057002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8331528002": {
+    "job_id": "greenhouse-8331528002",
+    "company": "Pendo",
+    "title": "Sr. Software Engineer, Back End",
+    "location": "Raleigh, NC",
+    "posted_at": "2025-12-11T17:22:31-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/pendo/jobs/8331528002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8224073002": {
+    "job_id": "greenhouse-8224073002",
+    "company": "Pendo",
+    "title": "Sr. Software Engineer, Full Stack",
+    "location": "Raleigh, NC",
+    "posted_at": "2025-10-27T12:50:24-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/pendo/jobs/8224073002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8399087002": {
+    "job_id": "greenhouse-8399087002",
+    "company": "Lyft",
+    "title": "FullStack Engineer, Fleets Tooling ",
+    "location": "San Francisco Office",
+    "posted_at": "2026-01-30T16:20:59-05:00",
+    "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8399087002?gh_jid=8399087002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8375199002": {
+    "job_id": "greenhouse-8375199002",
+    "company": "Lyft",
+    "title": "ML Software Engineer, Integrity",
+    "location": "New York Office, San Francisco Office",
+    "posted_at": "2026-01-14T16:45:16-05:00",
+    "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8375199002?gh_jid=8375199002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8374907002": {
+    "job_id": "greenhouse-8374907002",
+    "company": "Lyft",
+    "title": "ML Software Engineer, Integrity",
+    "location": "New York Office, San Francisco Office",
+    "posted_at": "2026-01-14T16:45:16-05:00",
+    "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8374907002?gh_jid=8374907002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8326337002": {
+    "job_id": "greenhouse-8326337002",
+    "company": "Lyft",
+    "title": "Software Engineer, Lyft Business",
+    "location": "San Francisco Office",
+    "posted_at": "2025-12-08T13:37:59-05:00",
+    "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8326337002?gh_jid=8326337002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-8378422002": {
+    "job_id": "greenhouse-8378422002",
+    "company": "Lyft",
+    "title": "Software Engineer, Server",
+    "location": "San Francisco Office",
+    "posted_at": "2026-01-20T10:39:22-05:00",
+    "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8378422002?gh_jid=8378422002",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4835988007": {
+    "job_id": "greenhouse-4835988007",
+    "company": "Together AI",
+    "title": "Machine Learning, Platform Engineer",
+    "location": "San Francisco",
+    "posted_at": "2025-08-22T00:31:16-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/4835988007",
+    "provider": "greenhouse"
+  },
+  "greenhouse-4753034007": {
+    "job_id": "greenhouse-4753034007",
+    "company": "Together AI",
+    "title": "Site Reliability Engineer",
+    "location": "San Francisco",
+    "posted_at": "2025-06-04T11:29:08-04:00",
+    "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/4753034007",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7266323": {
+    "job_id": "greenhouse-7266323",
+    "company": "Samsara",
+    "title": "Full Stack Engineer II",
+    "location": "Remote - SF Bay Area",
+    "posted_at": "2025-10-31T17:39:45-04:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7266323?gh_jid=7266323",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7619925": {
+    "job_id": "greenhouse-7619925",
+    "company": "Samsara",
+    "title": "Software Engineer II, AI Platform",
+    "location": "Remote - CA",
+    "posted_at": "2026-02-18T11:27:36-05:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7276275": {
+    "job_id": "greenhouse-7276275",
+    "company": "Samsara",
+    "title": "Software Engineer II, Fleet Safety",
+    "location": "Remote - SF Bay Area",
+    "posted_at": "2025-10-14T05:16:25-04:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7276275?gh_jid=7276275",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7312588": {
+    "job_id": "greenhouse-7312588",
+    "company": "Samsara",
+    "title": "Software Engineer II - Mobile Platform",
+    "location": "San Francisco - SF9",
+    "posted_at": "2025-10-28T17:33:39-04:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7296895": {
+    "job_id": "greenhouse-7296895",
+    "company": "Samsara",
+    "title": "Software Engineer - Safety",
+    "location": "Remote - SF Bay Area",
+    "posted_at": "2025-10-28T07:53:11-04:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7296895?gh_jid=7296895",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7306930": {
+    "job_id": "greenhouse-7306930",
+    "company": "Samsara",
+    "title": "Software Engineer - Training",
+    "location": "Remote - SF Bay Area",
+    "posted_at": "2025-10-31T17:25:45-04:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7306930?gh_jid=7306930",
+    "provider": "greenhouse"
+  },
+  "greenhouse-7430244": {
+    "job_id": "greenhouse-7430244",
+    "company": "Samsara",
+    "title": "Sr. Software Engineer II - Connected Equipment",
+    "location": "Remote - SF Bay Area",
+    "posted_at": "2025-12-10T09:32:42-05:00",
+    "apply_url": "https://www.samsara.com/company/careers/roles/7430244?gh_jid=7430244",
+    "provider": "greenhouse"
+  },
+  "ashby-4e64ab86-4e30-403b-b1b9-41dc052570ce": {
+    "job_id": "ashby-4e64ab86-4e30-403b-b1b9-41dc052570ce",
+    "company": "Ramp",
+    "title": "Software Engineer, Frontend",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2023-03-09T17:44:00.817+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce",
+    "provider": "ashby"
+  },
+  "ashby-0ea43bb5-201b-4626-ae19-1d7ae3a3193f": {
+    "job_id": "ashby-0ea43bb5-201b-4626-ae19-1d7ae3a3193f",
+    "company": "Ramp",
+    "title": "Software Engineer, Infrastructure",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-04-15T20:28:01.105+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/0ea43bb5-201b-4626-ae19-1d7ae3a3193f",
+    "provider": "ashby"
+  },
+  "ashby-d1183b00-6590-4fe4-a585-28d84e578fe3": {
+    "job_id": "ashby-d1183b00-6590-4fe4-a585-28d84e578fe3",
+    "company": "Ramp",
+    "title": "Software Engineer, Stablecoins",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-01-20T23:53:39.199+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3",
+    "provider": "ashby"
+  },
+  "ashby-9912212c-2edd-4bdb-a18c-1087bcae0522": {
+    "job_id": "ashby-9912212c-2edd-4bdb-a18c-1087bcae0522",
+    "company": "Ramp",
+    "title": "Software Engineer, FedRAMP Infrastructure",
+    "location": "Washington, D.C.",
+    "posted_at": "2025-07-24T15:11:28.008+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/9912212c-2edd-4bdb-a18c-1087bcae0522",
+    "provider": "ashby"
+  },
+  "ashby-a1229aec-1105-4c47-8533-b912e732ed89": {
+    "job_id": "ashby-a1229aec-1105-4c47-8533-b912e732ed89",
+    "company": "Ramp",
+    "title": "University Grad | Software Engineer | Frontend",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-08-01T21:08:04.061+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
+    "provider": "ashby"
+  },
+  "ashby-f5b60cf1-c0ec-42c1-89db-ece853e998ab": {
+    "job_id": "ashby-f5b60cf1-c0ec-42c1-89db-ece853e998ab",
+    "company": "Ramp",
+    "title": "Software Engineer, Growth Platform",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-09-29T22:46:04.471+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab",
+    "provider": "ashby"
+  },
+  "ashby-0c9e3e0f-54df-4252-a17b-b506e954225b": {
+    "job_id": "ashby-0c9e3e0f-54df-4252-a17b-b506e954225b",
+    "company": "Ramp",
+    "title": "Software Engineer, Growth",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-09-29T22:50:46.522+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/0c9e3e0f-54df-4252-a17b-b506e954225b",
+    "provider": "ashby"
+  },
+  "ashby-deca582c-a1d0-4705-9975-60aed81ba89f": {
+    "job_id": "ashby-deca582c-a1d0-4705-9975-60aed81ba89f",
+    "company": "Ramp",
+    "title": "Software Engineer, Forward Deployed",
+    "location": "San Francisco, CA",
+    "posted_at": "2025-11-05T16:45:58.645+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f",
+    "provider": "ashby"
+  },
+  "ashby-9320454f-f2ca-4c19-82d2-b51b8d75fd3a": {
+    "job_id": "ashby-9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
+    "company": "Ramp",
+    "title": "Software Engineer, Accounting, Argentina",
+    "location": "Remote (Buenos Aires, Argentina)",
+    "posted_at": "2025-11-19T13:56:24.470+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
+    "provider": "ashby"
+  },
+  "ashby-5fe4c64e-9336-4384-9e6f-ff32eeb3fdae": {
+    "job_id": "ashby-5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
+    "company": "Ramp",
+    "title": "Software Engineer, Core Product",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-01-20T16:41:04.185+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
+    "provider": "ashby"
+  },
+  "ashby-1b191a1d-bb39-4b4a-b6bf-224e66ead1eb": {
+    "job_id": "ashby-1b191a1d-bb39-4b4a-b6bf-224e66ead1eb",
+    "company": "Ramp",
+    "title": "Software Engineer, Financial Systems",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-10-21T21:59:10.472+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/1b191a1d-bb39-4b4a-b6bf-224e66ead1eb",
+    "provider": "ashby"
+  },
+  "ashby-a512aa87-2f3b-4229-b67b-4591c200d650": {
+    "job_id": "ashby-a512aa87-2f3b-4229-b67b-4591c200d650",
+    "company": "Ramp",
+    "title": "Business Systems Engineer",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-01-21T10:00:23.636+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/a512aa87-2f3b-4229-b67b-4591c200d650",
+    "provider": "ashby"
+  },
+  "ashby-5598f7b8-4ae2-4105-a2b4-2d0f55c54c40": {
+    "job_id": "ashby-5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
+    "company": "Ramp",
+    "title": "Software Engineer, Risk",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-01-20T15:57:31.081+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
+    "provider": "ashby"
+  },
+  "ashby-ed2e9a94-f58e-4ff8-8853-afd977850d43": {
+    "job_id": "ashby-ed2e9a94-f58e-4ff8-8853-afd977850d43",
+    "company": "Ramp",
+    "title": "Software Engineer, Accounting",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-01-20T16:50:18.419+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/ed2e9a94-f58e-4ff8-8853-afd977850d43",
+    "provider": "ashby"
+  },
+  "ashby-2a4968ae-220c-471b-b890-a011de570bbb": {
+    "job_id": "ashby-2a4968ae-220c-471b-b890-a011de570bbb",
+    "company": "Ramp",
+    "title": "Software Engineer, Bill Pay & Procurement",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-10-29T20:06:15.084+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb",
+    "provider": "ashby"
+  },
+  "ashby-b42cce4b-8fa9-4e8d-892d-3a29a7afb909": {
+    "job_id": "ashby-b42cce4b-8fa9-4e8d-892d-3a29a7afb909",
+    "company": "Ramp",
+    "title": "Software Engineer, AI DevX",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2025-10-22T19:48:23.698+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909",
+    "provider": "ashby"
+  },
+  "ashby-42527ca9-03b9-499e-a5c4-18e4245af138": {
+    "job_id": "ashby-42527ca9-03b9-499e-a5c4-18e4245af138",
+    "company": "Ramp",
+    "title": "Software Engineer, Dev API",
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-02-12T19:45:35.507+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138",
+    "provider": "ashby"
+  },
+  "ashby-f7399542-9122-481a-bf64-43bf8093748b": {
+    "job_id": "ashby-f7399542-9122-481a-bf64-43bf8093748b",
+    "company": "Notion",
+    "title": "Software Engineer, Fullstack, Early Career",
+    "location": "San Francisco, California",
+    "posted_at": "2025-09-05T18:33:15.441+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+    "provider": "ashby"
+  },
+  "ashby-948654d0-97ee-4a01-ac81-8d1faffd69c5": {
+    "job_id": "ashby-948654d0-97ee-4a01-ac81-8d1faffd69c5",
+    "company": "Notion",
+    "title": "Software Engineer, Search Quality and Ranking",
+    "location": "New York, New York",
+    "posted_at": "2025-07-25T20:19:33.302+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/948654d0-97ee-4a01-ac81-8d1faffd69c5",
+    "provider": "ashby"
+  },
+  "ashby-3fbcf972-52d5-4475-8720-040025c6f7da": {
+    "job_id": "ashby-3fbcf972-52d5-4475-8720-040025c6f7da",
+    "company": "Notion",
+    "title": "Software Engineer, Datastore",
+    "location": "San Francisco, California",
+    "posted_at": "2025-07-25T20:01:47.070+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+    "provider": "ashby"
+  },
+  "ashby-91156750-4050-4621-aa45-0fb068308d2c": {
+    "job_id": "ashby-91156750-4050-4621-aa45-0fb068308d2c",
+    "company": "Notion",
+    "title": "Software Engineer, Enterprise Data Platform",
+    "location": "San Francisco, California",
+    "posted_at": "2025-07-10T19:30:06.835+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
+    "provider": "ashby"
+  },
+  "ashby-dda89eef-ad64-4b84-af95-d0c4896cae42": {
+    "job_id": "ashby-dda89eef-ad64-4b84-af95-d0c4896cae42",
+    "company": "Notion",
+    "title": "Software Engineer, Developer Experience",
+    "location": "San Francisco, California",
+    "posted_at": "2025-07-25T20:36:19.017+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/dda89eef-ad64-4b84-af95-d0c4896cae42",
+    "provider": "ashby"
+  },
+  "ashby-e050309a-6b81-4341-b1ca-9bdd17e62e13": {
+    "job_id": "ashby-e050309a-6b81-4341-b1ca-9bdd17e62e13",
+    "company": "Notion",
+    "title": "Software Engineer, Cloud Infrastructure",
+    "location": "San Francisco, California",
+    "posted_at": "2025-07-25T19:22:49.291+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/e050309a-6b81-4341-b1ca-9bdd17e62e13",
+    "provider": "ashby"
+  },
+  "ashby-d58c48e7-5919-4cd3-b0e9-565aa354a620": {
+    "job_id": "ashby-d58c48e7-5919-4cd3-b0e9-565aa354a620",
+    "company": "Notion",
+    "title": "Business Systems Engineer",
+    "location": "San Francisco, California",
+    "posted_at": "2025-09-18T17:21:41.774+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/d58c48e7-5919-4cd3-b0e9-565aa354a620",
+    "provider": "ashby"
+  },
+  "ashby-d41b635b-c17b-4efd-89fd-fdb2ddb62e9a": {
+    "job_id": "ashby-d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
+    "company": "Notion",
+    "title": "Software Engineer, Product Infrastructure",
+    "location": "San Francisco, California",
+    "posted_at": "2025-10-03T00:17:50.412+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
+    "provider": "ashby"
+  },
+  "ashby-c2a04cea-79ce-4ce5-a9ab-361767792268": {
+    "job_id": "ashby-c2a04cea-79ce-4ce5-a9ab-361767792268",
+    "company": "Notion",
+    "title": "Software Engineer, Product Platform",
+    "location": "San Francisco, California",
+    "posted_at": "2025-10-03T19:43:49.671+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/c2a04cea-79ce-4ce5-a9ab-361767792268",
+    "provider": "ashby"
+  },
+  "ashby-bc9a9573-e963-48a7-b7b9-a32017f28916": {
+    "job_id": "ashby-bc9a9573-e963-48a7-b7b9-a32017f28916",
+    "company": "Notion",
+    "title": "AI Applications Engineer",
+    "location": "San Francisco, California",
+    "posted_at": "2025-11-06T18:28:08.078+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/bc9a9573-e963-48a7-b7b9-a32017f28916",
+    "provider": "ashby"
+  },
+  "ashby-d30d38a4-2437-4205-a001-326fdb42221c": {
+    "job_id": "ashby-d30d38a4-2437-4205-a001-326fdb42221c",
+    "company": "Notion",
+    "title": "Software Engineer, Primitive Foundations",
+    "location": "San Francisco, California",
+    "posted_at": "2026-01-08T19:58:11.014+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/d30d38a4-2437-4205-a001-326fdb42221c",
+    "provider": "ashby"
+  },
+  "ashby-3c6dd26e-4ffb-44f2-87e2-598f49d74ab5": {
+    "job_id": "ashby-3c6dd26e-4ffb-44f2-87e2-598f49d74ab5",
+    "company": "Notion",
+    "title": "Software Engineer, Product Security",
+    "location": "San Francisco, California",
+    "posted_at": "2025-12-03T19:28:52.203+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/3c6dd26e-4ffb-44f2-87e2-598f49d74ab5",
+    "provider": "ashby"
+  },
+  "ashby-ff54d0b3-d30f-4622-b6e6-9b9c6e4132ea": {
+    "job_id": "ashby-ff54d0b3-d30f-4622-b6e6-9b9c6e4132ea",
+    "company": "Notion",
+    "title": "Software Engineer, Mail",
+    "location": "New York, New York",
+    "posted_at": "2026-01-23T20:00:51.082+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/ff54d0b3-d30f-4622-b6e6-9b9c6e4132ea",
+    "provider": "ashby"
+  },
+  "ashby-66b1756e-843d-4118-89d1-08667eb6fa27": {
+    "job_id": "ashby-66b1756e-843d-4118-89d1-08667eb6fa27",
+    "company": "Notion",
+    "title": "Software Engineer, Permissions",
+    "location": "San Francisco, California",
+    "posted_at": "2026-02-06T23:38:22.656+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/66b1756e-843d-4118-89d1-08667eb6fa27",
+    "provider": "ashby"
+  },
+  "ashby-67a6ea13-9e71-4e0c-ba9c-999126417a3c": {
+    "job_id": "ashby-67a6ea13-9e71-4e0c-ba9c-999126417a3c",
+    "company": "Notion",
+    "title": "Software Engineer, Mobile Platform",
+    "location": "New York, New York",
+    "posted_at": "2026-02-13T20:13:44.849+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/67a6ea13-9e71-4e0c-ba9c-999126417a3c",
+    "provider": "ashby"
+  },
+  "ashby-18d063f7-5e28-4c02-b88c-dd23943ce06d": {
+    "job_id": "ashby-18d063f7-5e28-4c02-b88c-dd23943ce06d",
+    "company": "Notion",
+    "title": "Client Platform Engineer",
+    "location": "San Francisco, California",
+    "posted_at": "2026-02-19T19:07:31.362+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/notion/18d063f7-5e28-4c02-b88c-dd23943ce06d",
+    "provider": "ashby"
+  },
+  "ashby-f6e6158e-eb89-4008-81ea-1b7512bc509d": {
+    "job_id": "ashby-f6e6158e-eb89-4008-81ea-1b7512bc509d",
+    "company": "Replit",
+    "title": "Site Reliability Engineer",
+    "location": "Remote (United States)",
+    "posted_at": "2025-03-06T07:38:54.324+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/replit/f6e6158e-eb89-4008-81ea-1b7512bc509d",
+    "provider": "ashby"
+  },
+  "ashby-823658d8-21ae-46e5-ac93-1454e6527c63": {
+    "job_id": "ashby-823658d8-21ae-46e5-ac93-1454e6527c63",
+    "company": "Harvey AI",
+    "title": "Software Engineer, Developer Experience (DevEx)",
+    "location": "San Francisco",
+    "posted_at": "2026-01-15T23:20:03.662+00:00",
+    "apply_url": "https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63",
+    "provider": "ashby"
+  },
+  "workday-crowdstrike-Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317": {
+    "job_id": "workday-crowdstrike-Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317",
+    "company": "Crowdstrike",
+    "title": "Sr. Software Engineer - Linux Sensor (Hybrid)",
+    "location": "USA - Redmond, WA",
+    "posted_at": "2026-02-14",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Redmond-WA/Sr-Software-Engineer---Linux-Sensor--Hybrid-_R27317",
+    "provider": "workday"
+  },
+  "workday-crowdstrike-Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27150": {
+    "job_id": "workday-crowdstrike-Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27150",
+    "company": "Crowdstrike",
+    "title": "Sr. Software Engineer - Sensor - Cloud Runtime Protection (Hybrid)",
+    "location": "USA - Sunnyvale, CA",
+    "posted_at": "2026-02-20",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27150",
+    "provider": "workday"
+  },
+  "workday-crowdstrike-Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27147": {
+    "job_id": "workday-crowdstrike-Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27147",
+    "company": "Crowdstrike",
+    "title": "Sr. Software Engineer - Sensor - Cloud Runtime Protection (Hybrid)",
+    "location": "USA - Sunnyvale, CA",
+    "posted_at": "2026-02-20",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27147",
+    "provider": "workday"
+  },
+  "workday-crowdstrike-Sr-Backend-Engineer---Managed-Services--Hybrid-_R27078": {
+    "job_id": "workday-crowdstrike-Sr-Backend-Engineer---Managed-Services--Hybrid-_R27078",
+    "company": "Crowdstrike",
+    "title": "Sr. Backend Engineer - Managed Services (Hybrid)",
+    "location": "USA - Austin, TX",
+    "posted_at": "2026-02-20",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Austin-TX/Sr-Backend-Engineer---Managed-Services--Hybrid-_R27078",
+    "provider": "workday"
+  },
+  "workday-adobe-Full-Stack-Engineer--Enterprise-GenAI_R165370": {
+    "job_id": "workday-adobe-Full-Stack-Engineer--Enterprise-GenAI_R165370",
+    "company": "Adobe",
+    "title": "Full-Stack Engineer, Enterprise GenAI",
+    "location": "San Jose",
+    "posted_at": "2026-02-12",
+    "apply_url": "https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Full-Stack-Engineer--Enterprise-GenAI_R165370",
+    "provider": "workday"
+  },
+  "lever-ab7e3425-81d5-4705-a7b5-cd60c8a45cdb": {
+    "job_id": "lever-ab7e3425-81d5-4705-a7b5-cd60c8a45cdb",
+    "company": "Palantir",
+    "title": "Backend Software Engineer - Application Development",
+    "location": "New York, NY",
+    "posted_at": "2024-03-11",
+    "apply_url": "https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb",
+    "provider": "lever"
+  },
+  "lever-1345438c-ebfc-4fa5-b545-30c1414f317c": {
+    "job_id": "lever-1345438c-ebfc-4fa5-b545-30c1414f317c",
+    "company": "Palantir",
+    "title": "Backend Software Engineer - Defense",
+    "location": "Washington, D.C.",
+    "posted_at": "2025-02-24",
+    "apply_url": "https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c",
+    "provider": "lever"
+  },
+  "lever-a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb": {
+    "job_id": "lever-a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb",
+    "company": "Palantir",
+    "title": "Backend Software Engineer - Defense",
+    "location": "Palo Alto, CA",
+    "posted_at": "2025-02-24",
+    "apply_url": "https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb",
+    "provider": "lever"
+  },
+  "lever-d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5": {
+    "job_id": "lever-d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5",
+    "company": "Palantir",
+    "title": "Backend Software Engineer - Defense",
+    "location": "New York, NY",
+    "posted_at": "2025-02-24",
+    "apply_url": "https://jobs.lever.co/palantir/d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5",
+    "provider": "lever"
+  },
+  "lever-fb2d3222-dbd8-4e03-8d39-47b820e9509c": {
+    "job_id": "lever-fb2d3222-dbd8-4e03-8d39-47b820e9509c",
+    "company": "Palantir",
+    "title": "Backend Software Engineer - Infrastructure",
+    "location": "New York, NY",
+    "posted_at": "2024-02-20",
+    "apply_url": "https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c",
+    "provider": "lever"
+  },
+  "lever-8c38feb7-7ca8-429e-9643-efffe2fe0428": {
+    "job_id": "lever-8c38feb7-7ca8-429e-9643-efffe2fe0428",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "location": "Chicago, IL",
+    "posted_at": "2022-04-27",
+    "apply_url": "https://jobs.lever.co/palantir/8c38feb7-7ca8-429e-9643-efffe2fe0428",
+    "provider": "lever"
+  },
+  "lever-dab396d4-2f14-4796-aac0-0d82883dccf0": {
+    "job_id": "lever-dab396d4-2f14-4796-aac0-0d82883dccf0",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "location": "New York, NY",
+    "posted_at": "2014-01-23",
+    "apply_url": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0",
+    "provider": "lever"
+  },
+  "lever-0edf7365-49f0-4263-818a-19409ec4f430": {
+    "job_id": "lever-0edf7365-49f0-4263-818a-19409ec4f430",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+    "location": "Seattle, WA",
+    "posted_at": "2026-01-16",
+    "apply_url": "https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430",
+    "provider": "lever"
+  },
+  "lever-c62264f5-5da8-40fe-9b44-f7f0f0012e11": {
+    "job_id": "lever-c62264f5-5da8-40fe-9b44-f7f0f0012e11",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+    "location": "Palo Alto, CA",
+    "posted_at": "2026-01-16",
+    "apply_url": "https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11",
+    "provider": "lever"
+  },
+  "lever-34b3a697-6e22-4751-befd-0b7921abbd5f": {
+    "job_id": "lever-34b3a697-6e22-4751-befd-0b7921abbd5f",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Intel",
+    "location": "Washington, D.C.",
+    "posted_at": "2021-10-18",
+    "apply_url": "https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f",
+    "provider": "lever"
+  },
+  "lever-8aba5995-653d-4805-96e8-24488e6abf37": {
+    "job_id": "lever-8aba5995-653d-4805-96e8-24488e6abf37",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Japan Forward Deployed",
+    "location": "Washington, D.C.",
+    "posted_at": "2024-10-03",
+    "apply_url": "https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37",
+    "provider": "lever"
+  },
+  "lever-a39bf84c-6648-4871-bd07-9b882d401c4c": {
+    "job_id": "lever-a39bf84c-6648-4871-bd07-9b882d401c4c",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Korea Forward Deployed",
+    "location": "Washington, D.C.",
+    "posted_at": "2024-10-03",
+    "apply_url": "https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c",
+    "provider": "lever"
+  },
+  "lever-289ad049-7b4e-41e3-8a39-146fbeb6fb64": {
+    "job_id": "lever-289ad049-7b4e-41e3-8a39-146fbeb6fb64",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "location": "Washington, D.C.",
+    "posted_at": "2020-04-15",
+    "apply_url": "https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64",
+    "provider": "lever"
+  },
+  "lever-84131e3f-455e-47fc-9c11-898d95f09048": {
+    "job_id": "lever-84131e3f-455e-47fc-9c11-898d95f09048",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "location": "San Diego, CA",
+    "posted_at": "2025-07-29",
+    "apply_url": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048",
+    "provider": "lever"
+  },
+  "lever-e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7": {
+    "job_id": "lever-e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "location": "New York, NY",
+    "posted_at": "2020-06-02",
+    "apply_url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+    "provider": "lever"
+  },
+  "lever-13f99633-43b5-4459-8e84-25073f257c18": {
+    "job_id": "lever-13f99633-43b5-4459-8e84-25073f257c18",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - Warp Speed",
+    "location": "New York, NY",
+    "posted_at": "2025-02-07",
+    "apply_url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18",
+    "provider": "lever"
+  },
+  "lever-8b61f9fe-fadd-423f-9c69-60a9dd8b831f": {
+    "job_id": "lever-8b61f9fe-fadd-423f-9c69-60a9dd8b831f",
+    "company": "Palantir",
+    "title": "Full Stack Software Engineer - Apollo Platform",
+    "location": "Seattle, WA",
+    "posted_at": "2022-09-15",
+    "apply_url": "https://jobs.lever.co/palantir/8b61f9fe-fadd-423f-9c69-60a9dd8b831f",
+    "provider": "lever"
+  },
+  "lever-fdebc44f-b74a-4f7a-9d81-baa7bac66cba": {
+    "job_id": "lever-fdebc44f-b74a-4f7a-9d81-baa7bac66cba",
+    "company": "Palantir",
+    "title": "Full Stack Software Engineer - Apollo Platform",
+    "location": "New York, NY",
+    "posted_at": "2022-09-15",
+    "apply_url": "https://jobs.lever.co/palantir/fdebc44f-b74a-4f7a-9d81-baa7bac66cba",
+    "provider": "lever"
+  },
+  "lever-2da4be12-bc7a-4950-87db-e9d68d955ff7": {
+    "job_id": "lever-2da4be12-bc7a-4950-87db-e9d68d955ff7",
+    "company": "Palantir",
+    "title": "Full Stack Software Engineer - Application Development",
+    "location": "New York, NY",
+    "posted_at": "2024-02-17",
+    "apply_url": "https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7",
+    "provider": "lever"
+  },
+  "lever-c6404cbe-60eb-4977-afb5-6e3c97ed5283": {
+    "job_id": "lever-c6404cbe-60eb-4977-afb5-6e3c97ed5283",
+    "company": "Palantir",
+    "title": "Privacy and Civil Liberties Software Engineer",
+    "location": "New York, NY",
+    "posted_at": "2021-11-16",
+    "apply_url": "https://jobs.lever.co/palantir/c6404cbe-60eb-4977-afb5-6e3c97ed5283",
+    "provider": "lever"
+  },
+  "lever-8f308f3e-43d2-49c9-accd-cc7af0f1565c": {
+    "job_id": "lever-8f308f3e-43d2-49c9-accd-cc7af0f1565c",
+    "company": "Palantir",
+    "title": "Software Engineer - Apollo Platform",
+    "location": "New York, NY",
+    "posted_at": "2022-08-10",
+    "apply_url": "https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c",
+    "provider": "lever"
+  },
+  "lever-afea07a8-2721-45e6-a9ca-6580f3f9783c": {
+    "job_id": "lever-afea07a8-2721-45e6-a9ca-6580f3f9783c",
+    "company": "Palantir",
+    "title": "Software Engineer - Apollo Platform",
+    "location": "Seattle, WA",
+    "posted_at": "2022-08-10",
+    "apply_url": "https://jobs.lever.co/palantir/afea07a8-2721-45e6-a9ca-6580f3f9783c",
+    "provider": "lever"
+  },
+  "lever-832e4652-5088-4e5b-aeac-1e82ec3ebad4": {
+    "job_id": "lever-832e4652-5088-4e5b-aeac-1e82ec3ebad4",
+    "company": "Palantir",
+    "title": "Software Engineer - Apollo Systems",
+    "location": "New York, NY",
+    "posted_at": "2025-11-10",
+    "apply_url": "https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4",
+    "provider": "lever"
+  },
+  "lever-e47d4410-2542-47d8-b558-b5295fc28821": {
+    "job_id": "lever-e47d4410-2542-47d8-b558-b5295fc28821",
+    "company": "Palantir",
+    "title": "Software Engineer - Apollo Systems",
+    "location": "Seattle, WA",
+    "posted_at": "2025-11-10",
+    "apply_url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821",
+    "provider": "lever"
+  },
+  "lever-cf76738e-3030-42fa-92ac-a9446df956fc": {
+    "job_id": "lever-cf76738e-3030-42fa-92ac-a9446df956fc",
+    "company": "Palantir",
+    "title": "Software Engineer - Core Interfaces",
+    "location": "Palo Alto, CA",
+    "posted_at": "2026-01-13",
+    "apply_url": "https://jobs.lever.co/palantir/cf76738e-3030-42fa-92ac-a9446df956fc",
+    "provider": "lever"
+  },
+  "lever-f7dbfdf1-0bb1-4c11-ac15-6a139cee3410": {
+    "job_id": "lever-f7dbfdf1-0bb1-4c11-ac15-6a139cee3410",
+    "company": "Palantir",
+    "title": "Software Engineer - Defense Applications",
+    "location": "Washington, D.C.",
+    "posted_at": "2026-01-26",
+    "apply_url": "https://jobs.lever.co/palantir/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410",
+    "provider": "lever"
+  },
+  "lever-3c84af24-b7aa-483e-b2c3-e1d83494fe15": {
+    "job_id": "lever-3c84af24-b7aa-483e-b2c3-e1d83494fe15",
+    "company": "Palantir",
+    "title": "Software Engineer - Developer Productivity",
+    "location": "New York, NY",
+    "posted_at": "2022-11-08",
+    "apply_url": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15",
+    "provider": "lever"
+  },
+  "lever-397fb983-47b7-4a53-a7df-f080f43f7720": {
+    "job_id": "lever-397fb983-47b7-4a53-a7df-f080f43f7720",
+    "company": "Palantir",
+    "title": "Software Engineer - Edge",
+    "location": "Washington, D.C.",
+    "posted_at": "2025-11-04",
+    "apply_url": "https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720",
+    "provider": "lever"
+  },
+  "lever-cd2423c6-da68-430c-8be5-0ae7eea36497": {
+    "job_id": "lever-cd2423c6-da68-430c-8be5-0ae7eea36497",
+    "company": "Palantir",
+    "title": "Software Engineer - Environment Platform",
+    "location": "Seattle, WA",
+    "posted_at": "2024-09-05",
+    "apply_url": "https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497",
+    "provider": "lever"
+  },
+  "lever-d5d83a8f-cb96-41cc-9612-c7224fbb2fbc": {
+    "job_id": "lever-d5d83a8f-cb96-41cc-9612-c7224fbb2fbc",
+    "company": "Palantir",
+    "title": "Software Engineer - Environment Platform",
+    "location": "New York, NY",
+    "posted_at": "2024-09-05",
+    "apply_url": "https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc",
+    "provider": "lever"
+  },
+  "lever-71ed917e-850a-484b-9454-fa66bdf24540": {
+    "job_id": "lever-71ed917e-850a-484b-9454-fa66bdf24540",
+    "company": "Palantir",
+    "title": "Software Engineer - Frontend Developer Productivity",
+    "location": "New York, NY",
+    "posted_at": "2024-02-23",
+    "apply_url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540",
+    "provider": "lever"
+  },
+  "lever-6fe5515f-f677-4d98-8ac2-1775a425f5e7": {
+    "job_id": "lever-6fe5515f-f677-4d98-8ac2-1775a425f5e7",
+    "company": "Palantir",
+    "title": "Software Engineer - Infrastructure, Foundry Platform",
+    "location": "New York, NY",
+    "posted_at": "2025-08-06",
+    "apply_url": "https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7",
+    "provider": "lever"
+  },
+  "lever-94984771-0704-446c-88c6-91ce748f6d92": {
+    "job_id": "lever-94984771-0704-446c-88c6-91ce748f6d92",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "location": "New York, NY",
+    "posted_at": "2021-07-01",
+    "apply_url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
+    "provider": "lever"
+  },
+  "lever-c34b424e-caf2-455a-b104-ae1096ccca29": {
+    "job_id": "lever-c34b424e-caf2-455a-b104-ae1096ccca29",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "location": "Denver, CO",
+    "posted_at": "2020-10-27",
+    "apply_url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+    "provider": "lever"
+  },
+  "lever-dea9d3d5-75b2-4588-b7bd-585a47b79c8c": {
+    "job_id": "lever-dea9d3d5-75b2-4588-b7bd-585a47b79c8c",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad",
+    "location": "Seattle, WA",
+    "posted_at": "2021-07-01",
+    "apply_url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c",
+    "provider": "lever"
+  },
+  "lever-0a838e66-1ab0-4fc4-b4d3-4671c0352278": {
+    "job_id": "lever-0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "location": "New York, NY",
+    "posted_at": "2025-06-19",
+    "apply_url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
+    "provider": "lever"
+  },
+  "lever-18d901fc-93bb-4d18-9f04-c72031e20d79": {
+    "job_id": "lever-18d901fc-93bb-4d18-9f04-c72031e20d79",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "location": "Washington, D.C.",
+    "posted_at": "2025-06-19",
+    "apply_url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79",
+    "provider": "lever"
+  },
+  "lever-f362d7aa-360d-4059-ab38-f482742693b3": {
+    "job_id": "lever-f362d7aa-360d-4059-ab38-f482742693b3",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Defense",
+    "location": "Palo Alto, CA",
+    "posted_at": "2025-06-19",
+    "apply_url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+    "provider": "lever"
+  },
+  "lever-4abf26b4-795c-420a-bf22-1ab98db268b4": {
+    "job_id": "lever-4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "location": "New York, NY",
+    "posted_at": "2025-06-26",
+    "apply_url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
+    "provider": "lever"
+  },
+  "lever-7d75bed5-45d8-4876-840a-2d92ea79c98d": {
+    "job_id": "lever-7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "location": "Palo Alto, CA",
+    "posted_at": "2025-08-19",
+    "apply_url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "provider": "lever"
+  },
+  "lever-15844944-fb69-4b57-9531-e988650b20c6": {
+    "job_id": "lever-15844944-fb69-4b57-9531-e988650b20c6",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "location": "Washington, D.C.",
+    "posted_at": "2025-08-19",
+    "apply_url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6",
+    "provider": "lever"
+  },
+  "lever-4d5a144e-87ea-45e2-a68c-3fad590629af": {
+    "job_id": "lever-4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "location": "Seattle, WA",
+    "posted_at": "2025-06-26",
+    "apply_url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
+    "provider": "lever"
+  },
+  "lever-e1a6c138-98bf-45e2-97f7-2c70371cc38a": {
+    "job_id": "lever-e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "company": "Palantir",
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "location": "New York, NY",
+    "posted_at": "2025-06-26",
+    "apply_url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "provider": "lever"
+  },
+  "lever-78dbb616-cf3c-489c-9eb2-e6fc9bd9993a": {
+    "job_id": "lever-78dbb616-cf3c-489c-9eb2-e6fc9bd9993a",
+    "company": "Palantir",
+    "title": "Systems Engineer - Business Systems",
+    "location": "New York, NY",
+    "posted_at": "2022-06-08",
+    "apply_url": "https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a",
+    "provider": "lever"
+  },
+  "lever-da426d8b-5963-42e5-9b19-84649cb519cc": {
+    "job_id": "lever-da426d8b-5963-42e5-9b19-84649cb519cc",
+    "company": "Palantir",
+    "title": "Systems Engineer - Business Systems",
+    "location": "Washington, D.C.",
+    "posted_at": "2022-06-08",
+    "apply_url": "https://jobs.lever.co/palantir/da426d8b-5963-42e5-9b19-84649cb519cc",
+    "provider": "lever"
+  },
+  "lever-df20ad9f-3d7f-4267-8e37-8253f717534a": {
+    "job_id": "lever-df20ad9f-3d7f-4267-8e37-8253f717534a",
+    "company": "Palantir",
+    "title": "Systems Engineer - Business Systems",
+    "location": "Denver, CO",
+    "posted_at": "2025-05-23",
+    "apply_url": "https://jobs.lever.co/palantir/df20ad9f-3d7f-4267-8e37-8253f717534a",
+    "provider": "lever"
+  },
+  "lever-e1d6117e-2ee0-4cf6-8040-256c3009389f": {
+    "job_id": "lever-e1d6117e-2ee0-4cf6-8040-256c3009389f",
+    "company": "Palantir",
+    "title": "Systems Engineer - Business Systems",
+    "location": "Palo Alto, CA",
+    "posted_at": "2022-06-08",
+    "apply_url": "https://jobs.lever.co/palantir/e1d6117e-2ee0-4cf6-8040-256c3009389f",
+    "provider": "lever"
+  },
+  "lever-4fbe610c-a1f2-47ca-9932-4bc35e65ee31": {
+    "job_id": "lever-4fbe610c-a1f2-47ca-9932-4bc35e65ee31",
+    "company": "Palantir",
+    "title": "Systems Engineer - Microsoft 365",
+    "location": "Washington, D.C.",
+    "posted_at": "2025-07-24",
+    "apply_url": "https://jobs.lever.co/palantir/4fbe610c-a1f2-47ca-9932-4bc35e65ee31",
+    "provider": "lever"
+  },
+  "lever-810e07f1-0f24-432e-a615-58478bf6ee51": {
+    "job_id": "lever-810e07f1-0f24-432e-a615-58478bf6ee51",
+    "company": "Palantir",
+    "title": "Systems Engineer - Microsoft 365",
+    "location": "New York, NY",
+    "posted_at": "2025-07-24",
+    "apply_url": "https://jobs.lever.co/palantir/810e07f1-0f24-432e-a615-58478bf6ee51",
+    "provider": "lever"
+  }
+}
