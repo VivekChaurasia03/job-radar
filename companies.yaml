@@ -103,12 +103,64 @@ companies:
     provider: greenhouse
     id: togetherai
 
+  - name: Cloudflare
+    provider: greenhouse
+    id: cloudflare
+
+  - name: Datadog
+    provider: greenhouse
+    id: datadog
+
+  - name: Elastic
+    provider: greenhouse
+    id: elastic
+
+  - name: MongoDB
+    provider: greenhouse
+    id: mongodb
+
+  - name: Twilio
+    provider: greenhouse
+    id: twilio
+
+  - name: DoorDash
+    provider: greenhouse
+    id: doordashusa
+
+  - name: Block
+    provider: greenhouse
+    id: block
+
   # ── Lever ───────────────────────────────────────────────────────────────────
   - name: Palantir
     provider: lever
     id: palantir
 
   # ── Ashby ───────────────────────────────────────────────────────────────────
+  - name: OpenAI
+    provider: ashby
+    id: openai
+
+  - name: Cursor
+    provider: ashby
+    id: cursor
+
+  - name: Perplexity
+    provider: ashby
+    id: perplexity
+
+  - name: Cohere
+    provider: ashby
+    id: cohere
+
+  - name: Benchling
+    provider: ashby
+    id: benchling
+
+  - name: Warp
+    provider: ashby
+    id: warp
+
   - name: Linear
     provider: ashby
     id: linear

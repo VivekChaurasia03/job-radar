@@ -1,13 +1,16 @@
 """
 filter.py
-Filters job postings to keep only US-based, new-grad/entry-level
+Filters job postings to keep only US-based, entry-level (0-2 yrs)
 SWE / SDE / Backend / Fullstack roles. Excludes senior, staff, intern, etc.
 """
 
 import re
 from typing import Optional
 
-# ── Core title patterns (must match at least one) ────────────────────────────
+# ── Minimum posting date — ignore anything older than this ───────────────────
+MIN_POSTED_DATE = "2026-02-01"
+
+# ── Core title patterns — only pure SWE/SDE/backend/fullstack ────────────────
 TITLE_INCLUDE = [
     r"\bsoftware engineer\b",
     r"\bsoftware developer\b",
@@ -15,16 +18,13 @@ TITLE_INCLUDE = [
     r"\bsde\b",
     r"\bbackend engineer\b",
     r"\bfull.?stack engineer\b",
-    r"\bplatform engineer\b",
-    r"\bfrontend engineer\b",
-    r"\bapplications engineer\b",
-    r"\bsystems engineer\b",
-    r"\bsite reliability engineer\b",  # some SRE roles are new grad friendly
 ]
 
 # ── Seniority / role exclusions ──────────────────────────────────────────────
 TITLE_EXCLUDE = [
+    # Seniority levels
     r"\bsenior\b",
+    r"\bsr\.?\b",   # "Sr." / "Sr" abbreviation for Senior
     r"\bstaff\b",
     r"\bprincipal\b",
     r"\blead\b",
@@ -33,14 +33,28 @@ TITLE_EXCLUDE = [
     r"\bvp\b",
     r"\bvice president\b",
     r"\barchitect\b",
+    r"\biii\b",         # L3+ (senior equiv at many companies)
+    r"\biv\b",          # L4+
+    r"\b[345]\b",       # L3, L4, L5
+    # Non-SWE roles that may contain "engineer"
+    r"\bmachine learning engineer\b",
+    r"\bml engineer\b",
+    r"\bdata engineer\b",
+    r"\bdata scientist\b",
+    r"\bdevops engineer\b",
+    r"\bsite reliability\b",
+    r"\bsre\b",
+    r"\bsecurity engineer\b",
+    r"\bnetwork engineer\b",
+    r"\bsolutions engineer\b",
+    r"\bsales engineer\b",
+    r"\bsupport engineer\b",
+    # Employment type exclusions
     r"\bintern(ship)?\b",
     r"\bco.?op\b",
     r"\bpart.?time\b",
     r"\bcontract(or)?\b",
     r"\bfreelance\b",
-    r"\biii\b",       # level 3+ (Senior equiv at many companies)
-    r"\biv\b",        # level 4+
-    r"\b[45]\b",      # L4, L5 etc
 ]
 
 # ── US location signals (allowlist) ──────────────────────────────────────────
@@ -105,6 +119,19 @@ def is_relevant_title(title: str) -> bool:
     return True
 
 
+def is_recent_enough(posted_at) -> bool:
+    if not posted_at:
+        return True  # no date info — include it
+    date_str = str(posted_at)[:10]  # take YYYY-MM-DD portion
+    try:
+        return date_str >= MIN_POSTED_DATE
+    except Exception:
+        return True
+
+
 def passes_filter(job: dict) -> bool:
-    return is_relevant_title(job.get("title", "")) and \
-           is_us_location(job.get("location"))
+    return (
+        is_relevant_title(job.get("title", ""))
+        and is_us_location(job.get("location"))
+        and is_recent_enough(job.get("posted_at"))
+    )
