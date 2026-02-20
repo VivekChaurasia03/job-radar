@@ -55,6 +55,7 @@ def fetch(company_cfg: dict) -> list[dict]:
             "location": location,
             "posted_at": posting.get("publishedAt") or posting.get("updatedAt"),
             "apply_url": posting.get("jobUrl", ""),
+            "description": posting.get("descriptionHtml") or posting.get("description", ""),
             "provider": "ashby",
         })
 

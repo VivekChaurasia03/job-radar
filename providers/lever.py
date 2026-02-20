@@ -49,6 +49,7 @@ def fetch(company_cfg: dict) -> list[dict]:
             "location": location,
             "posted_at": datetime.fromtimestamp(posting["createdAt"] / 1000, tz=timezone.utc).date().isoformat() if posting.get("createdAt") else None,
             "apply_url": posting.get("hostedUrl", ""),
+            "description": posting.get("description") or posting.get("descriptionPlain", ""),
             "provider": "lever",
         })
 

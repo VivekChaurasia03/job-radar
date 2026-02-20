@@ -4,6 +4,7 @@ Filters job postings to keep only US-based, entry-level (0-2 yrs)
 SWE / SDE / Backend / Fullstack roles. Excludes senior, staff, intern, etc.
 """
 
+import html
 import re
 from typing import Optional
 
@@ -83,6 +84,41 @@ COUNTRY_BLOCKLIST = [
 # Placeholder strings Greenhouse/ATS systems use when no location is set
 PLACEHOLDER_LOCATIONS = {"", "n/a", "na", "location", "tbd", "tbc", "null", "none"}
 
+# ── Description-based experience filter ──────────────────────────────────────
+# Catches: "5+ years of experience", "minimum 3 years", "3 years of software experience"
+_SENIOR_EXP = re.compile(
+    r'\b([3-9]|\d{2,})\+?\s*(?:or\s+more\s+)?years?\s+(?:of\s+)?(?:\w+\s+){0,3}experience'
+    r'|\b(?:minimum|at\s+least)\s+([3-9]|\d{2,})\+?\s*years?',
+    re.IGNORECASE,
+)
+# Override: if the posting explicitly says it's entry-level / new grad, keep it
+# even if it also mentions years elsewhere (e.g. "0-3 years")
+_ENTRY_LEVEL_SIGNAL = re.compile(
+    r'\b(?:new\s+grad(?:uate)?|entry.?level|0\s*[-–]\s*[1-3]\s+years?|junior)\b',
+    re.IGNORECASE,
+)
+
+
+def _strip_html(text: str) -> str:
+    """Remove HTML tags and decode entities to get plain text."""
+    text = re.sub(r'<[^>]+>', ' ', text)
+    text = html.unescape(text)
+    return re.sub(r'\s+', ' ', text).strip()
+
+
+def is_entry_level_description(description: str) -> bool:
+    """
+    Returns False if the description explicitly requires 3+ years of experience
+    AND contains no entry-level / new-grad override signals.
+    Returns True when no description is available (don't filter blind).
+    """
+    if not description:
+        return True
+    text = _strip_html(description)
+    if _SENIOR_EXP.search(text) and not _ENTRY_LEVEL_SIGNAL.search(text):
+        return False
+    return True
+
 
 def _match_any(text: str, patterns: list[str]) -> bool:
     t = text.lower()
@@ -134,4 +170,5 @@ def passes_filter(job: dict) -> bool:
         is_relevant_title(job.get("title", ""))
         and is_us_location(job.get("location"))
         and is_recent_enough(job.get("posted_at"))
+        and is_entry_level_description(job.get("description", ""))
     )
