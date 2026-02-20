@@ -60,7 +60,7 @@ def send_discord(jobs: list[dict], webhook_url: str = "") -> None:
         req = urllib.request.Request(
             url,
             data=payload,
-            headers={"Content-Type": "application/json"},
+            headers={"Content-Type": "application/json", "User-Agent": "JobRadar/1.0"},
             method="POST",
         )
         try:
