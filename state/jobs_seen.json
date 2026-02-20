@@ -115,5 +115,14 @@
     "posted_at": "2026-02-18T14:25:04.278+00:00",
     "apply_url": "https://jobs.ashbyhq.com/writer/c0f962ae-e278-4aad-8412-c5d781738943",
     "provider": "ashby"
+  },
+  "greenhouse-5126691008": {
+    "job_id": "greenhouse-5126691008",
+    "company": "Anthropic",
+    "title": "Software Engineer, Agent SDK - Claude Code",
+    "location": "New York City, NY, San Francisco, CA, Seattle, WA",
+    "posted_at": "2026-02-20T13:34:18-05:00",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5126691008",
+    "provider": "greenhouse"
   }
 }
