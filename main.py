@@ -27,6 +27,7 @@ if hasattr(sys.stdout, "reconfigure"):
 import yaml
 
 from providers import get_provider
+from providers.adzuna import fetch_jobs as adzuna_fetch
 from filter import passes_filter
 from diff import find_new_jobs, save_state
 from notify import notify
@@ -101,6 +102,11 @@ def run(dry_run: bool = False, filter_company: str = None, filter_provider: str 
             except Exception as e:
                 company = futures[future]
                 logger.error(f"Unhandled error for {company.get('name')}: {e}")
+
+    # Adzuna aggregator (runs unless filtering by a specific company)
+    if not filter_company and not filter_provider:
+        adzuna_jobs = adzuna_fetch()
+        all_jobs.extend(adzuna_jobs)
 
     logger.info(f"Total fetched (pre-filter): {len(all_jobs)}")
 

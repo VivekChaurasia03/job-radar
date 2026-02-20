@@ -131,6 +131,110 @@ companies:
     provider: greenhouse
     id: block
 
+  - name: Okta
+    provider: greenhouse
+    id: okta
+
+  - name: Intercom
+    provider: greenhouse
+    id: intercom
+
+  - name: SoFi
+    provider: greenhouse
+    id: sofi
+
+  - name: Affirm
+    provider: greenhouse
+    id: affirm
+
+  - name: Flexport
+    provider: greenhouse
+    id: flexport
+
+  - name: Contentful
+    provider: greenhouse
+    id: contentful
+
+  - name: Braze
+    provider: greenhouse
+    id: braze
+
+  - name: Grammarly
+    provider: greenhouse
+    id: grammarly
+
+  - name: Faire
+    provider: greenhouse
+    id: faire
+
+  - name: Amplitude
+    provider: greenhouse
+    id: amplitude
+
+  - name: Webflow
+    provider: greenhouse
+    id: webflow
+
+  - name: Airtable
+    provider: greenhouse
+    id: airtable
+
+  - name: Pagerduty
+    provider: greenhouse
+    id: pagerduty
+
+  - name: Thumbtack
+    provider: greenhouse
+    id: thumbtack
+
+  - name: Coursera
+    provider: greenhouse
+    id: coursera
+
+  - name: Mixpanel
+    provider: greenhouse
+    id: mixpanel
+
+  - name: Cockroach Labs
+    provider: greenhouse
+    id: cockroachlabs
+
+  - name: Stitch Fix
+    provider: greenhouse
+    id: stitchfix
+
+  - name: Orca Security
+    provider: greenhouse
+    id: orcasecurity
+
+  - name: Flatiron Health
+    provider: greenhouse
+    id: flatironhealth
+
+  - name: Salesloft
+    provider: greenhouse
+    id: salesloft
+
+  - name: Marqeta
+    provider: greenhouse
+    id: marqeta
+
+  - name: Lattice
+    provider: greenhouse
+    id: lattice
+
+  - name: Inflection AI
+    provider: greenhouse
+    id: inflectionai
+
+  - name: PlanetScale
+    provider: greenhouse
+    id: planetscale
+
+  - name: Temporal
+    provider: greenhouse
+    id: temporal
+
   # ── Lever ───────────────────────────────────────────────────────────────────
   - name: Palantir
     provider: lever
@@ -200,6 +304,70 @@ companies:
   - name: Harvey AI
     provider: ashby
     id: harvey
+
+  - name: Vanta
+    provider: ashby
+    id: vanta
+
+  - name: Sierra
+    provider: ashby
+    id: sierra
+
+  - name: LangChain
+    provider: ashby
+    id: langchain
+
+  - name: Watershed
+    provider: ashby
+    id: watershed
+
+  - name: Writer
+    provider: ashby
+    id: writer
+
+  - name: Supabase
+    provider: ashby
+    id: supabase
+
+  - name: Exa AI
+    provider: ashby
+    id: exa
+
+  - name: Vapi
+    provider: ashby
+    id: vapi
+
+  - name: Dust
+    provider: ashby
+    id: dust
+
+  - name: Drata
+    provider: ashby
+    id: drata
+
+  - name: Posthog
+    provider: ashby
+    id: posthog
+
+  - name: Neon
+    provider: ashby
+    id: neon
+
+  - name: Letta
+    provider: ashby
+    id: letta
+
+  - name: Clerk
+    provider: ashby
+    id: clerk
+
+  - name: Zed
+    provider: ashby
+    id: zed
+
+  - name: Raycast
+    provider: ashby
+    id: raycast
 
   # ── Workday ─────────────────────────────────────────────────────────────────
   - name: Nvidia

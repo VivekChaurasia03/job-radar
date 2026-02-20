@@ -8,7 +8,7 @@ import re
 from typing import Optional
 
 # ── Minimum posting date — ignore anything older than this ───────────────────
-MIN_POSTED_DATE = "2026-02-01"
+MIN_POSTED_DATE = "2026-02-15"
 
 # ── Core title patterns — only pure SWE/SDE/backend/fullstack ────────────────
 TITLE_INCLUDE = [
