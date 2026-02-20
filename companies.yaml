@@ -1,0 +1,171 @@
+# companies.yaml
+# Add companies here as you discover them.
+#
+# Providers:
+#   greenhouse    → needs: id (board token)
+#   lever         → needs: id (company slug)
+#   ashby         → needs: id (company slug)
+#   workday_url   → needs: url (full CXS API URL)
+#
+# To find board tokens:
+#   Greenhouse: boards.greenhouse.io/{token}
+#   Lever:      jobs.lever.co/{slug}
+#   Ashby:      jobs.ashbyhq.com/{slug}
+
+companies:
+
+  # ── Greenhouse ──────────────────────────────────────────────────────────────
+  - name: Anthropic
+    provider: greenhouse
+    id: anthropic
+
+  - name: Stripe
+    provider: greenhouse
+    id: stripe
+
+  - name: Airbnb
+    provider: greenhouse
+    id: airbnb
+
+  - name: Coinbase
+    provider: greenhouse
+    id: coinbase
+
+  - name: Databricks
+    provider: greenhouse
+    id: databricks
+
+  - name: Figma
+    provider: greenhouse
+    id: figma
+
+  - name: Brex
+    provider: greenhouse
+    id: brex
+
+  - name: Scale AI
+    provider: greenhouse
+    id: scaleai
+
+  - name: Robinhood
+    provider: greenhouse
+    id: robinhood
+
+  - name: Reddit
+    provider: greenhouse
+    id: reddit
+
+  - name: Duolingo
+    provider: greenhouse
+    id: duolingo
+
+  - name: Twitch
+    provider: greenhouse
+    id: twitch
+
+  - name: Discord
+    provider: greenhouse
+    id: discord
+
+  - name: Dropbox
+    provider: greenhouse
+    id: dropbox
+
+  - name: Pinterest
+    provider: greenhouse
+    id: pinterest
+
+  - name: Lyft
+    provider: greenhouse
+    id: lyft
+
+  - name: Instacart
+    provider: greenhouse
+    id: instacart
+
+  - name: Chime
+    provider: greenhouse
+    id: chime
+
+  - name: Pendo
+    provider: greenhouse
+    id: pendo
+
+  - name: Samsara
+    provider: greenhouse
+    id: samsara
+
+  - name: Gusto
+    provider: greenhouse
+    id: gusto
+
+  - name: Together AI
+    provider: greenhouse
+    id: togetherai
+
+  # ── Lever ───────────────────────────────────────────────────────────────────
+  - name: Palantir
+    provider: lever
+    id: palantir
+
+  # ── Ashby ───────────────────────────────────────────────────────────────────
+  - name: Linear
+    provider: ashby
+    id: linear
+
+  - name: Vercel
+    provider: ashby
+    id: vercel
+
+  - name: Retool
+    provider: ashby
+    id: retool
+
+  - name: Mercury
+    provider: ashby
+    id: mercury
+
+  - name: Ramp
+    provider: ashby
+    id: ramp
+
+  - name: Deel
+    provider: ashby
+    id: deel
+
+  - name: Notion
+    provider: ashby
+    id: notion
+
+  - name: Runway
+    provider: ashby
+    id: runway
+
+  - name: Replit
+    provider: ashby
+    id: replit
+
+  - name: Harvey AI
+    provider: ashby
+    id: harvey
+
+  # ── Workday ─────────────────────────────────────────────────────────────────
+  - name: Nvidia
+    provider: workday_url
+    url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+
+  - name: Adobe
+    provider: workday_url
+    url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
+
+  - name: Salesforce
+    provider: workday_url
+    url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
+
+  - name: Crowdstrike
+    provider: workday_url
+    url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs
+
+  - name: Zillow
+    provider: workday_url
+    url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs
