@@ -53,7 +53,10 @@ def fetch(company_cfg: dict) -> list[dict]:
             "company": name,
             "title": job.get("title", ""),
             "location": location,
-            "posted_at": job.get("first_published") or job.get("updated_at"),
+            "posted_at": max(
+                (job.get("first_published") or ""),
+                (job.get("updated_at") or ""),
+            ) or None,
             "apply_url": job.get("absolute_url", ""),
             "description": job.get("content", ""),   # HTML — stripped in filter.py
             "provider": "greenhouse",
