@@ -18,6 +18,7 @@ from providers.lever import fetch as lever_fetch
 from providers.ashby import fetch as ashby_fetch
 from providers.smartrecruiters import fetch as smartrecruiters_fetch
 from providers.workday import fetch as workday_fetch
+from providers.uber import fetch as uber_fetch
 
 REGISTRY: dict = {
     "greenhouse": greenhouse_fetch,
@@ -25,6 +26,7 @@ REGISTRY: dict = {
     "ashby": ashby_fetch,
     "smartrecruiters": smartrecruiters_fetch,
     "workday_url": workday_fetch,
+    "uber": uber_fetch,
 }
 
 

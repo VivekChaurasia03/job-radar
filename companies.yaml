@@ -369,6 +369,10 @@ companies:
     provider: ashby
     id: raycast
 
+  # ── Uber (custom Playwright scraper) ────────────────────────────────────────
+  - name: Uber
+    provider: uber
+
   # ── Workday ─────────────────────────────────────────────────────────────────
   - name: Nvidia
     provider: workday_url
