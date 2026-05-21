@@ -4556,5 +4556,14 @@
     "posted_at": null,
     "apply_url": "https://nvidia.wd5.myworkdayjobs.com/job/US-NC-Durham/System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2018221-1",
     "provider": "workday"
+  },
+  "workday-salesforce-Software-Engineer-II--Cloud-Infrastructure---Slack_JR341727-1": {
+    "job_id": "workday-salesforce-Software-Engineer-II--Cloud-Infrastructure---Slack_JR341727-1",
+    "company": "Salesforce",
+    "title": "Software Engineer II, Cloud Infrastructure - Slack",
+    "location": "Virginia - Washington DC Metro - Remote",
+    "posted_at": "2026-05-21",
+    "apply_url": "https://salesforce.wd12.myworkdayjobs.com/job/Virginia---Washington-DC-Metro---Remote/Software-Engineer-II--Cloud-Infrastructure---Slack_JR341727-1",
+    "provider": "workday"
   }
 }
