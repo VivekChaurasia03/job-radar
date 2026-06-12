@@ -5074,8 +5074,17 @@
     "company": "Nvidia",
     "title": "Embedded Software Engineer - RISCV",
     "location": "United States, CA, Santa Clara",
-    "posted_at": "2026-06-12",
+    "posted_at": null,
     "apply_url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
+    "provider": "workday"
+  },
+  "workday-crowdstrike-Software-Engineer--Cloud---E2E-Test_R28957": {
+    "job_id": "workday-crowdstrike-Software-Engineer--Cloud---E2E-Test_R28957",
+    "company": "Crowdstrike",
+    "title": "Software Engineer, Cloud - E2E Test",
+    "location": "USA - Redmond, WA",
+    "posted_at": "2026-06-12",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Redmond-WA/Software-Engineer--Cloud---E2E-Test_R28957",
     "provider": "workday"
   }
 }
