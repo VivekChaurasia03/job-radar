@@ -4835,7 +4835,7 @@
   "ashby-130a5389-83e1-493f-9205-542d3ff53afb": {
     "job_id": "ashby-130a5389-83e1-493f-9205-542d3ff53afb",
     "company": "OpenAI",
-    "title": "Software Engineer, Full Stack - Codex Cloud Apps",
+    "title": "Full Stack Software Engineer, Codex Cloud Apps",
     "location": "San Francisco",
     "posted_at": "2026-06-03T23:39:38.487+00:00",
     "apply_url": "https://jobs.ashbyhq.com/openai/130a5389-83e1-493f-9205-542d3ff53afb",
@@ -4864,7 +4864,7 @@
   "ashby-88654e7f-4e23-4e75-8e54-18c10d09b093": {
     "job_id": "ashby-88654e7f-4e23-4e75-8e54-18c10d09b093",
     "company": "OpenAI",
-    "title": "Software Engineer, Full Stack - Cybersecurity Products",
+    "title": "Full Stack Software Engineer, Cybersecurity Products",
     "location": "San Francisco",
     "posted_at": "2026-06-04T21:16:59.213+00:00",
     "apply_url": "https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093",
@@ -5211,7 +5211,7 @@
     "company": "Nvidia",
     "title": "System Software Engineer - CUDA Chips",
     "location": "United States, CA, Santa Clara",
-    "posted_at": "2026-06-23",
+    "posted_at": null,
     "apply_url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2020020",
     "provider": "workday"
   },
