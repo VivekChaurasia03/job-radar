@@ -6683,5 +6683,14 @@
     "posted_at": "2026-08-19",
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote-WA/Software-Engineer--Front-End---Policy--Hybrid-_R29041",
     "provider": "workday"
+  },
+  "workday-nvidia-System-Software-Engineer---Trusted-Firmware_JR2023340": {
+    "job_id": "workday-nvidia-System-Software-Engineer---Trusted-Firmware_JR2023340",
+    "company": "Nvidia",
+    "title": "System Software Engineer - Trusted Firmware",
+    "location": "United States, CA, Santa Clara",
+    "posted_at": "2026-08-19",
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/System-Software-Engineer---Trusted-Firmware_JR2023340",
+    "provider": "workday"
   }
 }
